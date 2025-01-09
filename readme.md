@@ -1,4 +1,4 @@
-# Bienvenue sur la page de Nick!
+# Bienvenue sur ma page
 
 # Lien vers les cours enseignés
 - [Développement de systèmes embarquées](https://github.com/nbourre/0sx_notes_cours)
