@@ -1,0 +1,2 @@
+baseurl: "" # No baseurl for local testing
+theme: minimal-mistakes-jekyll
