@@ -208,7 +208,7 @@ sass:
 
 # Outputting
 permalink: /:categories/:title/
-timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: America/Montreal # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
 # Pagination with jekyll-paginate
@@ -231,7 +231,7 @@ pagination:
   sort_reverse: true
   category: 'posts'
   tag: ''
-  locale: ''
+  locale: 'fr-CA'
   trail:
     before: 2
     after: 2
